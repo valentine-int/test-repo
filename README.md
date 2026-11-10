@@ -9,3 +9,4 @@ Trial Study Club Backend Veterantech 2026.
 - Express.js
 - Modularisasi kode
 - Branch dan Merge Conflict
+- penambahan baru aja
